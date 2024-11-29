@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,20 +8,20 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/AgadirCity" />
-            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/AgadirCity/app" />
+            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/ListAssertions" />
+            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/ListAssertions/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
-        <option name="externalProjectPath" value="$USER_HOME$/HDD/Repos/Repos-Kotlin/AgadirCity" />
+        <option name="externalProjectPath" value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/ListAssertions" />
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/AgadirCity" />
-            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/AgadirCity/app" />
+            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/ListAssertions" />
+            <option value="$USER_HOME$/HDD/Repos/Repos-Kotlin/Projects/ListAssertions/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
